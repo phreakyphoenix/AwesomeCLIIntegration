@@ -1,2 +1,3 @@
 # AwesomeCLIIntegration
-Fun tool to build sites with CLI
+
+Fun tool to build sites with CLI :star2:
