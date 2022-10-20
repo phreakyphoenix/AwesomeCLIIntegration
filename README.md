@@ -1,5 +1,5 @@
 # AwesomeCLIIntegration
 
-Fun tool to build sites with CLI :star2:
+Fun tool to build sites from the CLI :star2:
 
-Let's build the most awesome site builder online !!!
+Let's create the most awesome site builder online !!!
